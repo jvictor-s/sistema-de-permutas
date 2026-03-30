@@ -1,5 +1,5 @@
 import type { Request, Response } from "express";
-import Permuta from "../../models/PermutaModel.ts";
+import Permuta from "../../databases/models/PermutaModel.ts";
 
 export async function createPermuta(req:Request,res:Response) {
     try{

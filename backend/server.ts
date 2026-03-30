@@ -1,5 +1,5 @@
 import express from "express";
-import PermutaRouter from "./routers/PermutaRouter.ts";
+import PermutaRouter from "./src/api/routers/PermutaRouter.ts";
 import dotenv from "dotenv";
 
 dotenv.config();

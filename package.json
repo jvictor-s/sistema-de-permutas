@@ -1,13 +1,13 @@
 {
   "name": "sistema-de-permutas",
   "version": "1.0.0",
-  "description": "",
+  "description": "sistema para gerenciar trocas de turnos",
   "main": "index.js",
   "scripts": {
-    "start": "node --watch ./backend/src/api/server.ts"
+    "start": "node --watch ./backend/server.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "jvictor-s",
   "license": "ISC",
   "type": "module",
   "dependencies": {

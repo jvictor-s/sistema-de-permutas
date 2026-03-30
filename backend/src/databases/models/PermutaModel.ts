@@ -1,4 +1,4 @@
-import sequelize from "../databases/sequelize.ts";
+import sequelize from "../sequelize.ts";
 import { DataTypes } from "sequelize";
 
 const Permuta = sequelize.define(
